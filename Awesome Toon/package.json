@@ -1,0 +1,8 @@
+{
+  "name": "com.snutihq.awesome-toon",
+  "version": "4.8.20",
+  "unity": "2020.3",
+  "description": "Provides a toonshader.",
+  "displayName": "AwesomeToon",
+  "hideInEditor": false
+}
